@@ -14,7 +14,7 @@
 
  </td>
      <td>
-       <img align="right" width=50% length=50% src="https://c.tenor.com/-UygBh3nnfEAAAAM/coding.gif"><br>
+       <img align="right" width=100% length=100% src="https://c.tenor.com/-UygBh3nnfEAAAAM/coding.gif"><br>
      </td>
   </tr>
 
