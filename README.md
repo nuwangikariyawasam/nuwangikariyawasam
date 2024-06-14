@@ -3,11 +3,22 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nuwangikariyawasam&label=Profile%20views&color=0e75b6&style=flat" alt="nuwangikariyawasam" /> </p>
 
+<table >
+  <tr>
+    <td>
 - 🌱 I’m currently learning **OOP with Java**
 
 - 👨‍💻 I’m undergraduate at [SLIIT](SLIIT)
 
 - 📫 How to reach me **nuwangi2608@gmail.com**
+
+ </td>
+     <td>
+       <img align="right" width=50% length=50% src="https://c.tenor.com/-UygBh3nnfEAAAAM/coding.gif"><br>
+     </td>
+  </tr>
+
+</table>
 ---
 
 | ![Nuwangi's github stats](https://github-readme-stats.vercel.app/api?username=NuwangiKariyawasam&show_icons=true&theme=tokyonight) | ![Nuwangi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NuwangiKariyawasam&theme=tokyonight) |
