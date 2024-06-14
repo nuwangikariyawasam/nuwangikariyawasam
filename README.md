@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **OOP with Java**
-
+- 👨‍💻 I’m undergraduate at **SLIIT**
 - 📫 How to reach me **nuwangi2608@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
