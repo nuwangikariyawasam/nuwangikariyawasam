@@ -15,7 +15,7 @@
 
  </td>
      <td>
-       <img align="right" width=100% length=100% src="[https://c.tenor.com/-UygBh3nnfEAAAAM/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputercoding&psig=AOvVaw0xTLUSWic6aWA5J4xz6cmX&ust=1718469359500000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC517LD24YDFQAAAAAdAAAAABAE)"><br>
+       <img align="right" width=100% length=100% src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNiemp6aTdrem84MHJ6enZrcGZ3aGh2amk4aDBxNjhyNnIxa3hteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"><br>
      </td>
   </tr>
 
