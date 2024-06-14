@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuwangi Kariyawasam</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwangikariyawasam&label=Profile%20views&color=0e75b6&style=flat" alt="nuwangikariyawasam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nuwangikariyawasam&label=Profile%20views&color=0e75b6&style=flat" alt="nuwangikariyawasam" /> </p>
 
 - 🌱 I’m currently learning **OOP with Java**
 
